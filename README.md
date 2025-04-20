@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🔭 I’m currently working on supporting DevOps pipelines as an L1 engineer, focusing on CI/CD automation and cloud deployments.<br>🌱 I’m currently learning advanced container orchestration with Docker and optimizing GitHub Actions workflows.<br>🤔 I’m looking for help with scaling infrastructure and mastering Kubernetes basics.<br>💬 Ask me about DevOps best practices, troubleshooting CI/CD issues, Hosting webapps on cloud.<br>📫 How to reach me - Feel free to email me at akhileshchoure1@gmail.com<br>⚡ Fun fact: I enjoy playing chess and swimming to unwind after a long day of coding!
+👋 About Me<br><br>🔭 I’m currently working on supporting DevOps pipelines as an L1 engineer, focusing on CI/CD automation and cloud deployments.<br>🌱 I’m currently learning advanced container orchestration with Docker and optimizing GitHub Actions workflows.<br>🤔 I’m looking for help with scaling infrastructure and mastering Kubernetes basics.<br>💬 Ask me about DevOps best practices, troubleshooting CI/CD issues, Creating and Managing webapps INFRA with the help of TERRAFORM and Hosting webapps on cloud.<br>📫 How to reach me - Feel free to email me at akhileshchoure1@gmail.com<br>⚡ Fun fact: I enjoy playing chess and swimming to unwind after a long day of coding!
 
 
 ## 🌐 Socials:
